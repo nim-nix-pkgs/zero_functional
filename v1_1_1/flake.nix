@@ -1,5 +1,5 @@
 {
-  description = ''A library providing zero-cost chaining for functional abstractions in Nim'';
+  description = ''a library providing zero-cost for chaining functional abstractions in Nim.'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,7 +9,7 @@
   
   inputs.src-zero_functional-v1_1_1.flake = false;
   inputs.src-zero_functional-v1_1_1.owner = "zero-functional";
-  inputs.src-zero_functional-v1_1_1.ref   = "refs/tags/v1.1.1";
+  inputs.src-zero_functional-v1_1_1.ref   = "v1_1_1";
   inputs.src-zero_functional-v1_1_1.repo  = "zero-functional";
   inputs.src-zero_functional-v1_1_1.type  = "github";
   
